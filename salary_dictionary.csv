@@ -1,0 +1,54 @@
+0 - Earnings,1-Deduction,2 - Display Only ( Total Additions etc),3 - Display Only (Other Deductions)
+Hard Ship Allowance,Stamp Duty,BRA1,No of Full Worked Days
+Attendance Allowance,EPF Employee 8%,BRA2,Basic per Day
+OT Amount 1.5,WSL Advance,Other Allowance Rate,OT (Type = 2)
+Basic Salary,No Pay Deduction,Basic Day Rate,No of Half Days
+Other Allowance Amount,Salary Advance,Net Salary,OT Rate 2
+Total Earnings,Other Deduction,WSL Total Working Days,BRA1WSL
+WSL Total Earning,Add. Allow. No Pay Deduction,BRA1 Amount,BRA2WSL
+Fixed Amount,Payee Month,BRA2 Amount,WSLOther Allowance Rate
+V. Allowance Attendance,No Pay,Total Earnings,WSL Basic
+V. Allow - Drivers Travel,Telephone Deduction,EPF Employer 12%,Working Days - Full
+V. Allow - Operator,,ETF Employer 3%,Working Days - Half Day
+V. ALLW -Site,,OT Rate 1.5,No Pay Rate
+Performance Allowance,,WSL No of Full Worked Days,Basic Rate
+Fixed OT Entitlement,,WSL No of Half Days,Basic Salary for EPF
+Salary Arrears,,WSL Day Rate,EPF staff full workdays
+Ex Work Hours Allownace,,WSL Basic Salary,EPF staff Halfdays
+Meal Allowance,,Total Working Days,EPF Staff No Pay Full Day
+Additional Allowance,,WSL OT 1.5,EPF Staff No Pay Half Day
+Accomadation Allowance,,WSL OT Hours 1.5,Leave Leave Full Day
+,,Basic Rate,Leave Leave Halfday
+,,No Pay Days,Lieu Leave
+,,Attendance Allowance Rate,
+,,OT Hours,
+,,Per Day Rate Total,
+,,Basic Rate for EPF,
+,,Hard Ship Allowance Rate,
+,,Total Deduction,
+,,WSL OT Rate,
+,,WSL Net Salary,
+,,Performance Allownace Fixed,
+,,Travelling Allowance,
+,,Hard Ship Allowance,
+,,Accommodation Allowance,
+,,Attendance Allowance,
+,,Special Allowance,
+,,Telephone Allowance,
+,,Additional Allowance,
+,,Other Allowance,
+,,OT Rate,
+,,Special Task Allowance,
+,,Total V.Allowance,
+,,Total Fixed,
+,,Fixed OT Hours,
+,,V. ALLW Rate -Site,
+,,Performance Allowance Rate,
+,,Allow - Extra Working Hours,
+,,Basic Salary,
+,,Month Day Count,
+,,Site Fixed Allowance,
+,,Vehicle Allownace,
+,,Salary Arrears,
+,,OT Amount 1.5,
+,,Total Cost to the Company,
